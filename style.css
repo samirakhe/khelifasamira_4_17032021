@@ -6,7 +6,14 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+h4 {
+    font-size: 25px;
+}
+h4 .white
+{
+ 
+    color:white;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -439,7 +446,7 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 20px;
 }
-
+h4
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
@@ -677,7 +684,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -753,7 +760,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(65, 57, 39, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
