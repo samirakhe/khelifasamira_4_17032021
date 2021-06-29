@@ -18,10 +18,6 @@ h4 .white
     width: 18%;
     height: 100%;
 }
-.logo {
-    width: 55%;
-    height: 100%;
-}
 .img-responsive-portfolio-thumb
 {
     width: 100%;
@@ -320,6 +316,8 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    width: 55%;
+    height: 100%;
 }
 
 .navbar-brand img {
