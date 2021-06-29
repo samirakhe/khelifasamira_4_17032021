@@ -13,11 +13,17 @@ h4 .white
 {
     color:white;
 }
+.center-block
+{
+    width: 18%;
+    height: 100%;
+}
 .img-responsive-portfolio-thumb
 {
     width: 100%;
     height: 100%;
 }
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -316,6 +322,8 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 55%;
+    height: 100%;
 }
 
 .navbar-brand img[src$=svg] {
