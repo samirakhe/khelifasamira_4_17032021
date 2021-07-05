@@ -10,7 +10,6 @@ h4 {
     font-size: 25px;
 }
 
-
 .center-block
 {
     width: 18%;
@@ -700,7 +699,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -730,6 +729,8 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: bold;
+
 }
 
 h3 {
@@ -794,7 +795,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #af6249;
 }
 
 .tc-white {
@@ -802,7 +803,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #c77751;
+    background: #af6249;
     color: #FFFFFF!important;
 }
 
@@ -839,11 +840,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/chouette-agence-banniere.jpg");
+    background-image: url("img/chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
